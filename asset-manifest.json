@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MihirAgarwal/Expense-Tracker/static/css/main.4b998ee4.css",
+    "main.js": "/MihirAgarwal/Expense-Tracker/static/js/main.1d9a109d.js",
+    "index.html": "/MihirAgarwal/Expense-Tracker/index.html",
+    "main.4b998ee4.css.map": "/MihirAgarwal/Expense-Tracker/static/css/main.4b998ee4.css.map",
+    "main.1d9a109d.js.map": "/MihirAgarwal/Expense-Tracker/static/js/main.1d9a109d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b998ee4.css",
+    "static/js/main.1d9a109d.js"
+  ]
+}
